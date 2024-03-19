@@ -2,14 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-font-family: gta;
-src: url("/fonts/pricedown/pricedown bl.otf");
-}
-
-.gtaFont{
-    font-family: gta;
-}
 @media only screen and (min-width: 768px) {
     .background{
         background-image: url(
