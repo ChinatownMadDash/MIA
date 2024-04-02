@@ -14,9 +14,9 @@
         <audio src="/She.mp3" bind:this={audio}></audio>
     </div>
     <div class="h-lvh flex items-center gap-2 md:gap-9 justify-center">
-        <button class="outrun-button">Telegram</button>
-        <button class="outrun-button">Twitter</button>
-        <button class="outrun-button">Chart</button>
+        <a class="outrun-button" href="https://twitter.com/tickermiami" target="_blank">Telegram</a>
+        <a class="outrun-button" href="https://twitter.com/tickermiami" target="_blank">Twitter</a>
+        <a class="outrun-button" href="https://dexscreener.com/solana/cqjwxq3te3d961qbjlvq6sftzvvmepyqlwp9ryp5wpxg" target="_blank">Chart</a>
     </div>
 
 </body>
